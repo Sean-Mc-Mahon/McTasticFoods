@@ -258,6 +258,10 @@ nav{
   margin: auto;
 }
 
+.ingredients{
+  margin-bottom: 1rem;
+}
+
 /* @keyframes move-down{
 
   0%{
