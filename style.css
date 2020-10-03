@@ -96,8 +96,6 @@ nav{
   position:relative;
   margin: 3px 0;
 }
-.subnav-links li a{
-}
 .subnav-links li:not(:last-child)::after{
   content:""; 
   border:1px solid #e2e2e2;
